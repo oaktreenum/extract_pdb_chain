@@ -8,8 +8,8 @@ This script allows you to isolate one or more chains from a PDB file. It's usefu
 
 ## Requirements
 
-- Python 3.x  
-- Biopython (Install with `pip install biopython`)
+- Python
+- Biopython (Install with `pip install ___`)
 
 ## Usage
 
